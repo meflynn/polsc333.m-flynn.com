@@ -13,6 +13,8 @@ output:
     template: content/lectures/polsc333-introduction.html
 ---
 
-Here is some body text
+Here is some body text.
+
+Also, I want to embed lecture slides here at some point. Let's figure out how to embed html slides here.
 
 <a href="content/lectures/polsc333-introduction.html">
