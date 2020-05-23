@@ -1,0 +1,16 @@
+---
+title: "World Politics POLSC 333"
+subtitle: "Studying the fascinating world of world politics and dogs and cat memes and so many other things"
+author: "Michael E Flynn"
+date: "5/15/2020"
+weight: 1
+output: 
+  html_document:
+    css: custom.scss
+active: false
+---
+
+
+<div style="position:absolute; left:300px; top:-70px;">
+![](/img/world-politics-hex.png)
+</div>

@@ -1,0 +1,13 @@
+---
+title: "Class Overview"
+menu:
+  lectures:
+    parent: Overview
+    weight: 1
+type: docs
+date: 
+weight: 1
+shiny: true
+---
+
+This page contains all of the lectures that we will cover this semester. See the column on the left for a list of topics and access to the corresponding lecture slides. 
